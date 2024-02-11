@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=playfair+display:wgt@400;500;600;700;800;900&dispaly=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components{
+    .btn {
+        @apply bg-blue-500 rounded-md px-4 py-3 text-white font-medium font-serif
+    }
+}

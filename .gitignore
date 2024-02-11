@@ -1,6 +1,6 @@
 node_modules/
 extra/
-src/
+# src/
 node_modules/
 package-lock.json
 package.json
