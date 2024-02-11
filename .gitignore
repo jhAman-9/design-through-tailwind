@@ -5,4 +5,4 @@ node_modules/
 package-lock.json
 package.json
 tailwind.config.js
-PUBLIC/style/style.css
+PUBLIC/style.css
