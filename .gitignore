@@ -1,2 +1,8 @@
-node_modeles/
+node_modules/
+extra/
+src/
+node_modules/
+package-lock.json
+package.json
+tailwind.config.js
 PUBLIC/style.css
